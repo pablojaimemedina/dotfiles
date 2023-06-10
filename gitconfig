@@ -61,4 +61,6 @@
   defaultBranch = master
 [user]
 	email = pablo.jaime.m@gmail.com
-	name = Pablo Jaime
+	name = pablo jaime
+[http]
+	proxy = 
